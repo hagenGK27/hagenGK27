@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hagenGK27
 - 👀 I’m interested in IT, socializing, sports and more...
-- 🌱 I’m currently learning coding, OS, mobile Applications
+- 🌱 I’m currently learning java, python, C, Swift, OS, Android Studio and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hagen.wey@outlook.de or @insta hagen_wey_27
 
