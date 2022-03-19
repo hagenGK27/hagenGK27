@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, socializing, sports and more...
 - 🌱 I’m currently learning java, python, C, Swift, OS, Android Studio and more
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hagen.wey@outlook.de or @insta hagen_wey_27
+- 📫 How to reach me hagen.wey@yahoo.com or @insta hagen_wey_27
 
 <!---
 hagenGK27/hagenGK27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
