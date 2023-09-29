@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hagenGK27
 - 👀 I’m interested in IT, socializing, sports and more...
 - 🌱 I’m currently learning scala, java, python, C, C++, Swift, OS, Android Studio and more
-- 💞️ I’m looking to collaborate on a trading algorithm
+- 💞️ I’m looking to collaborate on cool innovative projects
 - 📫 How to reach me hagen.wey@yahoo.com or https://www.instagram.com/hagen_wey_27/
 
 <!---
